@@ -141,9 +141,9 @@ public abstract class BoiteAOutils {
         System.out.println("\nChoisisez votre Metier :");
 
         do{
-            System.out.println("1 POO2_JDRv2.Mage");
-            System.out.println("2 POO2_JDRv2.Voleur");
-            System.out.println("3 POO2_JDRv2.Guerrier");
+            System.out.println("1 Mage");
+            System.out.println("2 Voleur");
+            System.out.println("3 Guerrier");
             sc.nextLine();
 
             try {

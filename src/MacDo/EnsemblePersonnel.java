@@ -1,7 +1,7 @@
 package MacDo;
 
-abstract class EnsemblePersonnel {
+public abstract class EnsemblePersonnel {
 
-    public EnsemblePersonnel()
+    //abstract EnsemblePersonnel();
 
 }
